@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
+  <h3 align="center"><b>To Do List App</b></h3>
+  <br/>
 
 <div align="center">
-  <image src='https://user-images.githubusercontent.com/75666332/229297258-24916b9d-2820-45eb-802a-050880b4ca1e.png'>
-  <br/>
-  <h3><b>To Do List App</b></h3>
+   <image src="https://user-images.githubusercontent.com/75666332/229297258-24916b9d-2820-45eb-802a-050880b4ca1e.png">
 </div>
 
 # 📗 Table of Contents
